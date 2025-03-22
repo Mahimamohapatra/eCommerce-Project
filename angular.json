@@ -53,8 +53,7 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all",
-              "baseHref": "/eCommerce-Project/"
+              "outputHashing": "all"
             },
             "development": {
               "optimization": false,
